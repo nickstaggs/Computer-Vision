@@ -1,4 +1,4 @@
-#include <stdio.h>                  /*  Marr-Hildreth.c  (or marrh.c) */
+#include <stdio.h>                  /*  Canny Algorithm */
 #include <math.h>
 #include <stdlib.h>
 #include <stdbool.h>
